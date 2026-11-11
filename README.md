@@ -3,3 +3,5 @@ SYnc zone
 Test addedef
 Zonal wt
 GNT
+
+Log zonae
